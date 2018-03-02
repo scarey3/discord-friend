@@ -1,0 +1,28 @@
+{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "GetUsernameIntent",
+        "samples": [
+          "what is my username",
+          "what my username is",
+          "get my username"
+        ],
+        "slots": []
+      }
+    ],
+    "invocationName": "discord friend"
+  }
+}
